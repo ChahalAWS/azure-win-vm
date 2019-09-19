@@ -8,8 +8,6 @@
     "adminPassword": {
       "value": "GEN-PASSWORD"
     },
-    "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
-    }
+     
   }
 }
